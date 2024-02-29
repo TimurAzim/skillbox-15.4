@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS\\Skillbox 15.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04BB3764-383D-4F68-9449-372BF52F2990}|Skillbox 15.4\\Skillbox 15.4.vcxproj|E:\\VS\\Skillbox 15.4\\Skillbox 15.4\\Skillbox 15.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04BB3764-383D-4F68-9449-372BF52F2990}|Skillbox 15.4\\Skillbox 15.4.vcxproj|solutionrelative:Skillbox 15.4\\Skillbox 15.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Skillbox 15.4.cpp",
+              "DocumentMoniker": "E:\\VS\\Skillbox 15.4\\Skillbox 15.4\\Skillbox 15.4.cpp",
+              "RelativeDocumentMoniker": "Skillbox 15.4\\Skillbox 15.4.cpp",
+              "ToolTip": "E:\\VS\\Skillbox 15.4\\Skillbox 15.4\\Skillbox 15.4.cpp",
+              "RelativeToolTip": "Skillbox 15.4\\Skillbox 15.4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T12:37:47.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
